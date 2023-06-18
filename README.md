@@ -56,8 +56,6 @@ All checkpoint is in the zip files following google drive link:
 
 [checkpoint](https://drive.google.com/file/d/1V9STZyI4uQ1x_eckkdryfYj36QZzCBnE/view?usp=share_link)
 
-For anonymity, you can access it in incognito mode or secret mode.
-For anonymity, we made temporal google account which has the name of CVPR supplemenatry 
 
 #### Segmentation
 
