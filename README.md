@@ -8,6 +8,8 @@ by Hyunjun Choi, Hawook Jeong, and Jin Young Choi.
 
 [Arxiv](https://arxiv.org/abs/2306.10485) 
 
+<img width="600" alt="thumbnail_intro" src="https://github.com/hyunjunChhoi/Balanced_Energy/assets/31534910/06f91c9a-6238-4a4c-a0df-6a8d44e0b438">
+
 
 Our code heavily relies on the implementation of [Energy-based Out-of-distribution Detection](https://github.com/wetliu/energy_ood) 
 and [PEBAL](https://github.com/tianyu0207/PEBAL)
