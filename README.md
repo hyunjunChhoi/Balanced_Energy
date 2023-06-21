@@ -1,3 +1,5 @@
+# Balanced Energy Regularization Loss for Out-of-distribution Detection
+
 This repo contains the official implementation for the CVPR2023 paper:
 
 [Balanced Energy Regularization Loss for Out-of-distribution Detection](https://arxiv.org/abs/2306.10485) 
