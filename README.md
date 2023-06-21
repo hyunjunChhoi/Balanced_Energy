@@ -1,3 +1,9 @@
+This repo contains the official implementation for the CVPR2023 paper: [Balanced Energy Regularization Loss for Out-of-distribution Detection](https://arxiv.org/abs/2306.10485) 
+
+by Hyunjun Choi, Hawook Jeong, and Jin Young Choi.
+
+[Arxiv](https://arxiv.org/abs/2306.10485) 
+
 
 Our code heavily relies on the implementation of [Energy-based Out-of-distribution Detection](https://github.com/wetliu/energy_ood) 
 and [PEBAL](https://github.com/tianyu0207/PEBAL)
@@ -117,4 +123,8 @@ bash inf_run_im_res.sh energy_ft 1 3
 ```
 
 the setting of hyperparameter alpha and gamma can be controlled in the bash script
+
+
+
+
 
