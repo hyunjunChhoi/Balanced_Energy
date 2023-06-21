@@ -128,6 +128,16 @@ bash inf_run_im_res.sh energy_ft 1 3
 
 the setting of hyperparameter alpha and gamma can be controlled in the bash script
 
+## Citation
+
+If you find this project useful, please consider the citation: 
+
+@article{ci2022gfpose,
+  title={GFPose: Learning 3D Human Pose Prior with Gradient Fields},
+  author={Ci, Hai and Wu, Mingdong and Zhu, Wentao and Ma, Xiaoxuan and Dong, Hao and Zhong, Fangwei and Wang, Yizhou},
+  journal={arXiv preprint arXiv:2212.08641},
+  year={2022}
+}
 
 
 
