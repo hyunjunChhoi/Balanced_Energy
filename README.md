@@ -132,12 +132,15 @@ the setting of hyperparameter alpha and gamma can be controlled in the bash scri
 
 If you find this project useful, please consider the citation: 
 
-@article{ci2022gfpose,
-  title={GFPose: Learning 3D Human Pose Prior with Gradient Fields},
-  author={Ci, Hai and Wu, Mingdong and Zhu, Wentao and Ma, Xiaoxuan and Dong, Hao and Zhong, Fangwei and Wang, Yizhou},
-  journal={arXiv preprint arXiv:2212.08641},
-  year={2022}
+```
+@inproceedings{choi2023balanced,
+  title={Balanced Energy Regularization Loss for Out-of-Distribution Detection},
+  author={Choi, Hyunjun and Jeong, Hawook and Choi, Jin Young},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={15691--15700},
+  year={2023}
 }
+```
 
 
 
